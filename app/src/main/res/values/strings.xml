@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Libras Kids</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="todo1">TODO</string>
+    <string name="todo2">TODO</string>
+    <string name="todo3">TODO</string>
+    <string name="todo4">TODO</string>
+    <string name="libras_kids">Libras Kids</string>
+    <string name="_2_a_4_anos">2 a 4 anos</string>
+    <string name="videos">VÍDEOS</string>
+    <string name="string_videos">vídeos</string>
+</resources>

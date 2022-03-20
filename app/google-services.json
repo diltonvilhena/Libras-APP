@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "900150588074",
+    "project_id": "libras-kids",
+    "storage_bucket": "libras-kids.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:900150588074:android:b9d14cc6928f1dba3ed6d3",
+        "android_client_info": {
+          "package_name": "com.example.libraskids"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "900150588074-6agi99qvtkf8ufp6140dhm29683qmi8k.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.libraskids",
+            "certificate_hash": "3c9b4017c79998c1c07958476abe45a1766a59b3"
+          }
+        },
+        {
+          "client_id": "900150588074-2egq4ik6mftlf6gjpj09ld55fgi2v2sn.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA5Tz1UofsX7JauS5_8pjnNv_vdTokJVr0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "900150588074-2egq4ik6mftlf6gjpj09ld55fgi2v2sn.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
