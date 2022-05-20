@@ -47,10 +47,10 @@ public class MenuCategoryActivity extends AppCompatActivity {
             txt3.setText("Animais");
             txt4.setText("Cores");
 
-            bt1.setImageResource(R.drawable.abc);
-            bt2.setImageResource(R.drawable.num);
-            bt3.setImageResource(R.drawable.animais);
-            bt4.setImageResource(R.drawable.cores);
+            bt1.setImageResource(R.drawable.abc2);
+            bt2.setImageResource(R.drawable.num123);
+            bt3.setImageResource(R.drawable.animais2);
+            bt4.setImageResource(R.drawable.cores2);
 
             bt1.setOnClickListener(v -> {
                 callActivity("alfabeto");
@@ -74,10 +74,10 @@ public class MenuCategoryActivity extends AppCompatActivity {
             txt3.setText("Saudações");
             txt4.setText("Objetos");
 
-            bt1.setImageResource(R.drawable.alimentos);
-            bt2.setImageResource(R.drawable.escola);
-            bt3.setImageResource(R.drawable.saudacoes);
-            bt4.setImageResource(R.drawable.objetos);
+            bt1.setImageResource(R.drawable.alimentos2);
+            bt2.setImageResource(R.drawable.escola2);
+            bt3.setImageResource(R.drawable.saudacoes2);
+            bt4.setImageResource(R.drawable.objetos2);
 
             bt1.setOnClickListener(v -> {
                 callActivity("alimentos");

@@ -48,7 +48,6 @@ public class VpActivity extends AppCompatActivity {
             @Override
             public void onDataChange(@NonNull DataSnapshot snapshot) {
 
-
                 for (DataSnapshot dataSnapshot: snapshot.getChildren()){
                     ModelVideoPlay modelVideoPlay = dataSnapshot.getValue(ModelVideoPlay.class);
                     videoPlayArrayList.add(modelVideoPlay);

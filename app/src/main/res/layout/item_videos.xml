@@ -37,8 +37,8 @@
         android:gravity="center"
         android:text="Titulo do Item"
         android:textColor="@color/white"
-        android:textSize="40dp"
-        android:textStyle="normal|bold">
+        android:textSize="50dp"
+        android:textStyle="normal|italic">
 
     </TextView>
 

@@ -25,7 +25,7 @@ public class SplashActivity extends AppCompatActivity {
         new Handler().postDelayed(() -> {
             startActivity(new Intent(getBaseContext(), HomeActivity.class));
             finish();
-        }, 1500);
+        }, 2000);
         //tempo de espera antes da tela inicial
 
     }
