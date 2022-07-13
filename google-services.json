@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "728098876942",
+    "firebase_url": "https://app-libras-default-rtdb.firebaseio.com",
+    "project_id": "app-libras",
+    "storage_bucket": "app-libras.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:728098876942:android:04a0c49d089d38b0bc565f",
+        "android_client_info": {
+          "package_name": "com.example.libraskids"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "728098876942-o4mrm7581stpch45l0pk0psavqf1t7rr.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAeQzZrKQU9basvk0zlCQsAlml9GUekh8A"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "728098876942-o4mrm7581stpch45l0pk0psavqf1t7rr.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
