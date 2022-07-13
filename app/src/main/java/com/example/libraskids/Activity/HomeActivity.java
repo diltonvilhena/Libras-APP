@@ -2,16 +2,15 @@ package com.example.libraskids.Activity;
 
 import android.content.Intent;
 import android.os.Bundle;
-import android.view.View;
 import android.view.WindowManager;
 import android.widget.Button;
 
 import androidx.appcompat.app.AppCompatActivity;
 
-import com.example.libraskids.Quiz.StartGame;
+
 import com.example.libraskids.R;
 import com.example.libraskids.VideoPlay.VpActivity;
-import com.example.libraskids.quizz.Quizz;
+import com.example.libraskids.Quizz.Quizz;
 
 import java.util.Objects;
 

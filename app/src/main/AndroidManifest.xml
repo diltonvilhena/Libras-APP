@@ -12,7 +12,7 @@
         android:roundIcon="@mipmap/ic_launcher_round"
         android:supportsRtl="true"
         android:theme="@style/Theme.LibrasKids">
-        <activity android:name=".quizz.Quizz"></activity>
+        <activity android:name=".Quizz.Quizz"></activity>
         <activity android:name=".VideoPlay.VpActivity" />
         <activity android:name=".Activity.DetailsItemActivity" />
         <activity android:name=".Activity.HomeActivity" />
