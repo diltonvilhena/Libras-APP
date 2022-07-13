@@ -27,7 +27,6 @@ public class DetailsCategoryActivity extends AppCompatActivity {
     private ArrayList<Item> numerosList;
     private AdapterDetailsCategory numAdapter;
 
-
         @Override
         protected void onCreate(Bundle savedInstanceState) {
             super.onCreate(savedInstanceState);
