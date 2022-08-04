@@ -6,7 +6,7 @@ Aplicativo desenvolvido para o ensino de Libras para pessoas com deficiência au
 
 O projeto é capaz de apresentar diversas categorias de ensino em Libras, por meio do uso de imagens e vídeos com as sinalizações, contém uma área de vídeos e também um quiz de perguntas e respostas.
 
-
+<img width="958" alt="Libras Kids App" src="https://user-images.githubusercontent.com/17463168/182914485-0cc0be1d-b930-4fc7-9e3b-6ece1b8e6653.png">
 
 ## ✔️ Técnicas e tecnologias utilizadas
 
